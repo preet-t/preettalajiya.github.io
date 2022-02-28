@@ -1,4 +1,4 @@
-## Welcome to Preet Talajiya's Site
+## Welcome to Preet Talajiya's WebSite
 
 You can use the [editor on GitHub](https://github.com/preet-t/preettalajiya.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
